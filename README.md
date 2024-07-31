@@ -21,3 +21,6 @@ document.addEventListener("DOMContentLoaded", function() {
   trackPageViews(api_key, site_key);
 });
 ```
+
+## For full documentation
+[Visit Larnalytics](https://larnalytics.online/documentation)
