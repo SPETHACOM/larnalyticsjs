@@ -1,6 +1,6 @@
 {
   "name": "larnalyticsjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to track page views for Larnalytics.",
   "main": "index.js",
   "scripts": {
