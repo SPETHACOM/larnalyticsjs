@@ -1,0 +1,28 @@
+{
+  "name": "larnalyticsjs",
+  "version": "1.0.0",
+  "description": "A package to track page views for Larnalytics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPETHACOM/larnalyticsjs.git"
+  },
+  "keywords": [
+    "larnalytics",
+    "web analytics",
+    "monitoring",
+    "monitor",
+    "monitor tools",
+    "web analytics tools",
+    "simple analytics tools"
+  ],
+  "author": "Harold Peter Ssebetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPETHACOM/larnalyticsjs/issues"
+  },
+  "homepage": "https://github.com/SPETHACOM/larnalyticsjs#readme"
+}
